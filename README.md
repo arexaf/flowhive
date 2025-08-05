@@ -1,8 +1,4 @@
-Here's a complete and professional README.md for your FlowHive project:
 
-markdown
-Copy
-Edit
 # 🐝 FlowHive
 
 FlowHive is a modern, collaborative task and project management system designed for teams and organizations. Built with **NestJS** and **PostgreSQL**, FlowHive supports workspace-based collaboration, project tracking, task assignments, real-time communication, and more.
